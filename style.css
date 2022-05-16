@@ -41,3 +41,17 @@
 .catagories img{
     width: 100px;
 }
+.shadow{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray
+}
+.ajob{
+    background-color: #fceae8;
+    height: 300px;
+}
+.bb{
+    margin-bottom: 15px;
+}
+.ajob h6{
+    color: gray;
+}
